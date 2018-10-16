@@ -1,4 +1,4 @@
-# Mario Level Generator
+# Mario Level Generator using Genetic Algorithms
 
 
 
